@@ -1,13 +1,13 @@
 {
   "forceUpdate": true,
   "ios": {
-    "latestVersion": "1.2.8",
-    "minSupportedVersion": "1.2.8",
+    "latestVersion": "1.2.9",
+    "minSupportedVersion": "1.2.9",
     "updateUrl": "https://apps.apple.com/ph/app/palawanpay-money-shop/id6740243712"
   },
   "android": {
-    "latestVersion": "1.2.11",
-    "minSupportedVersion": "1.2.11",
+    "latestVersion": "1.2.12",
+    "minSupportedVersion": "1.2.12",
     "updateUrl": "https://play.google.com/store/apps/details?id=com.palawanpaymoneyshop"
   }
 }
